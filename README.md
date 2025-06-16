@@ -1,7 +1,7 @@
 # 🎬 ADVANCED-SQL-IMDB-DATABASE-PROJECT
 This project explores a relational IMDB-style database using Advanced SQL techniques to extract actionable insights about movies, ratings, genres, actors, and production patterns.
 
-📦 Dataset Overview:
+# 📦 Dataset Overview:
 
 The database consists of multiple normalized tables:
 
@@ -17,7 +17,7 @@ role_mapping: Cast roles linked to movies
 
 director_mapping: Director-to-movie mapping
 
-🧠 Project Objectives:
+# 🧠 Project Objectives:
 
 Analyze industry trends and patterns
 
@@ -25,7 +25,7 @@ Explore movie performance via ratings and votes
 
 Understand relationships between actors, directors, and genres
 
-🛠 Skills & Concepts Used:
+# 🛠 Skills & Concepts Used:
 
 Complex JOINs across multiple tables
 
@@ -35,7 +35,7 @@ Null checks, pattern matching, filtering, grouping
 
 Procedural SQL using stored procedures
 
-📊 Key Deliverables:
+# 📊 Key Deliverables:
 
 ✔ Test_Query.sql: Executable SQL script with 25+ analytical queries
 
@@ -43,7 +43,7 @@ Procedural SQL using stored procedures
 
 ✔ Advanced SQL presentation.pptx: Business-friendly visual report of findings
 
-🔍 Insights Summary:
+# 🔍 Insights Summary:
 
 🎭 Most popular genre: Drama
 
